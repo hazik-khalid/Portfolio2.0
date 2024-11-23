@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Hazik Khalid",
+      "titles": [ "Front-end Developer", "Senior Data Engineer", "Mobile App Developer","Game Developer" ],
       "social": [
         {
           "name": "github",
@@ -29,11 +29,6 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -54,14 +49,9 @@
           "level": "85"
         },
         {
-          "name": "C#",
+          "name": "Python",
           "class": "devicon-csharp-plain",
           "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }
