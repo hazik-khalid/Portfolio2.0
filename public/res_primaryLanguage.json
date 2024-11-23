@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Hazik Khalid. Fictional person for preview purposes :) I'm working with newest front-end frameworks like  React and  What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Hazik Khalid.I'm working with the newest front-end frameworks like React to build modern and innovative projects. What you see here is my portfolio template designed to showcase my work and skills. If you like this template make sure to ⭐ the repository to help it reach more users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,8 +21,8 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-reactjs-plain",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
